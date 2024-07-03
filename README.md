@@ -2,7 +2,7 @@
 
 Yumeng He,  [Yunbo Wang](https://wyb15.github.io/)<sup>†</sup>, [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN)<br>
 
-[arXiv](https://arxiv.org/abs/2405.20791) | [PDF](https://arxiv.org/pdf/2405.20791)
+[arXiv](https://arxiv.org/abs/2405.20791) | [PDF](https://arxiv.org/pdf/2405.20791) | [Dataset](https://drive.google.com/drive/folders/1AoJctpU_sUyVev3luqXhE2-OjAauL8MN?usp=drive_link)
 
 This repository contains the official code for our paper: **GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**.
 
@@ -58,9 +58,6 @@ You can run the full experiment using: (remember ro edit the $DATADIR and $OUTPU
 sh run.sh
 ```
 
-
-## Todo
-- [ ] upload dataset
 
 
 ## Acknowledgements
