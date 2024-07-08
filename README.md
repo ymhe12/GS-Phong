@@ -17,7 +17,7 @@ This repository contains the official code for our paper: **GS-Phong: Meta-Learn
     
 2. Install dependencies
     ```bash
-    git clone https://github.com/ymhe123/GS-Phong.git
+    git clone https://github.com/ymhe12/GS-Phong.git
     cd GS-Phong
     git submodule update --init --recursive
     pip install -r requirements.txt
