@@ -1,0 +1,1 @@
+Project page for MetaGS. This website adapted from <a href="https://nerfies.github.io" target="_blank">Nerfies</a> template. We thank the authors that kindly open sourced the template of this website.
